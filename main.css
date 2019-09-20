@@ -1,0 +1,44 @@
+body {
+    border: 10px double black;
+    margin: 5px;
+}
+
+section {
+    text-align: center;
+    border: 10px double whitesmoke;
+    width: 500px;
+    margin: 20px;           
+    padding: 10px;          
+}
+
+p {
+    background-color:black;
+    color: red;
+    margin: 2px;           
+    padding-left: 15px;
+    border: 2px dashed whitesmoke;
+    padding: 12px;
+}
+
+html {
+    background-image: -webkit-linear-gradient(
+        to bottom, black 25%, red 100%);
+    background-image: -moz-linear-gradient(
+        to bottom, black 25%, red 100%);
+    background-image: -o-linear-gradient(
+        to bottom, black 25%, red 100%);
+    background-image: linear-gradient(
+        to bottom, black 25%, red 100%);
+}
+
+h1 {
+    font-family:'Creepster', cursive; 
+    color: whitesmoke;
+    text-align: center;
+    font-size: 55px;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: whitesmoke;
+}
